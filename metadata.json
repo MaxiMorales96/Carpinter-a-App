@@ -1,0 +1,6 @@
+{
+  "name": "Presupuestos Carpintería",
+  "description": "Calculadora y gestor de presupuestos de carpintería con opción de añadir tu logotipo de marca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
